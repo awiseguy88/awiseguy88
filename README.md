@@ -1,7 +1,8 @@
-<h1 align="center">Aaron Wise — AI Systems Builder</h1>
+<h1 align="center">Aaron Wise</h1>
 
 <p align="center">
-  I build practical AI agents, local-model infrastructure, and automation systems that turn repeatable work into useful software.
+  <strong>Building AI systems that do useful work.</strong><br />
+  Local models · MCP · agent automation · business workflows
 </p>
 
 <p align="center">
@@ -11,29 +12,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1300&center=true&vCenter=true&width=720&lines=AI+agents+for+real+business+work;Local+LLMs+%C2%B7+MCP+%C2%B7+automation+systems;Building+the+machine+room+for+modern+work" alt="AI systems builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1400&center=true&vCenter=true&width=760&lines=Building+AI+agents+for+real+business+work;Local+LLMs+%C2%B7+MCP+%C2%B7+safe+automation;From+repetitive+workflows+to+useful+systems" alt="What Aaron builds" />
 </p>
 
 ---
 
-## ⌁ The machine room
+## ⌬ Mission control
 
-I’m building [Aaron Wise AI](https://aaronwiseai.com/)—a collection of AI products, local-model tooling, agent systems, and custom automation builds.
+> I build practical AI systems for people who want less busywork and more leverage.
 
-| Building | What it does |
+| System | Purpose |
 | --- | --- |
-| [WiseAI Harness](https://harness.aaronwiseai.com/) | Build agents for the jobs your business does every day |
-| [WiseBench Community](https://wisebench.aaronwiseai.com/) | Benchmark local models for instruction-following and structured output |
-| [Toknado](https://toknado.aaronwiseai.com/) | Managed, OpenAI-compatible model access |
-| Wise Decisions | AI-powered email marketing automation — in development |
+| [WiseAI Harness](https://harness.aaronwiseai.com/) | Create agents for recurring business work |
+| [WiseBench Community](https://wisebench.aaronwiseai.com/) | Test how well local models follow real instructions |
+| [Toknado](https://toknado.aaronwiseai.com/) | Managed OpenAI-compatible model access |
+| Wise Decisions | AI-assisted email marketing automation — in development |
 | [ClawUniverse](https://openclaw.aaronwiseai.com/) | OpenClaw agents, tools, skills, and training |
 
-## ⚡ Agent operations
+## ⚡ Live build telemetry
 
+<!-- METRICS:START -->
 ```text
-SYSTEM STATUS
-────────────────────────────────────────────
-Focus        Local AI · MCP · agent automation
-Approach     Useful systems over AI hype
-Building     Workflow tools for real businesses
-Safety       Scoped tools · human review · injection defenses
+Public projects: loading…
+Contributions this year: loading…
+Profile updated: loading…
