@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="246" viewBox="0 0 1200 246" role="img" aria-labelledby="title desc">
+  <title id="title">The Machine Room — Aaron Wise AI</title>
+  <desc id="desc">A local model routes through MCP to six tool groups, drawn as copper traces on a pine background.</desc>
+  <rect width="1200" height="246" rx="12" fill="#10231f"/>
+  <g fill="#ffa576" font-family="Consolas, monospace" font-size="20" letter-spacing="3">
+    <text x="48" y="65">AARON WISE AI</text>
+  </g>
+  <text x="44" y="158" font-family="Georgia, serif" font-size="82" fill="#f5f1e8">The Machine Room</text>
+  <path d="M49 192h1102" stroke="#3c544a"/>
+  <text x="49" y="224" font-family="Consolas, monospace" font-size="18" fill="#c3cfc5">Local models / Agent systems</text>
+  <g fill="none" stroke="#d18d66" stroke-width="3" stroke-linejoin="round">
+    <path d="M805 110h84m0 0 48-52h58m-106 52 48 52h58m-106-52h106"/>
+    <path d="M995 58h35l19-20h70m-124 20h35l19 13h70M995 110h38l16-15h70m-124 15h38l16 15h70m-124 37h35l19-13h70m-124 13h35l19 19h70"/>
+  </g>
+  <g fill="#ffa576"><circle cx="805" cy="110" r="9"/><circle cx="889" cy="110" r="6"/>
+    <circle cx="1119" cy="38" r="4"/><circle cx="1119" cy="71" r="4"/><circle cx="1119" cy="95" r="4"/><circle cx="1119" cy="125" r="4"/><circle cx="1119" cy="149" r="4"/><circle cx="1119" cy="181" r="4"/>
+  </g>
+</svg>
