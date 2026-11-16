@@ -48,5 +48,5 @@ I built a scanner to help review what a skill asks an agent to do. The prompt-in
 ## GitHub activity
 
 <!-- METRICS:START -->
-[188 indexed public commits](https://github.com/search?q=author%3Aawiseguy88&type=commits) · [16 owned public repositories excluding forks](https://github.com/search?q=user%3Aawiseguy88+fork%3Afalse+is%3Apublic&type=repositories)
+[257 indexed public commits](https://github.com/search?q=author%3Aawiseguy88&type=commits) · [16 owned public repositories excluding forks](https://github.com/search?q=user%3Aawiseguy88+fork%3Afalse+is%3Apublic&type=repositories)
 <!-- METRICS:END -->
